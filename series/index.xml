@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on yiorgosmarinellis</title><link>https://fedjo.github.io/series/</link><description>Recent content in Series on yiorgosmarinellis</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fedjo.github.io/series/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud</title><link>https://fedjo.github.io/series/cloud/</link><pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate><guid>https://fedjo.github.io/series/cloud/</guid><description/></item><item><title>Setup Space</title><link>https://fedjo.github.io/series/setup-space/</link><pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate><guid>https://fedjo.github.io/series/setup-space/</guid><description/></item><item><title>Hugo</title><link>https://fedjo.github.io/series/hugo/</link><pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate><guid>https://fedjo.github.io/series/hugo/</guid><description/></item><item><title>Theme</title><link>https://fedjo.github.io/series/theme/</link><pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate><guid>https://fedjo.github.io/series/theme/</guid><description/></item><item><title>Getting Started</title><link>https://fedjo.github.io/series/getting-started/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://fedjo.github.io/series/getting-started/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on yiorgosmarinellis</title>
+    <link>https://fedjo.github.io/series/</link>
+    <description>Recent content in Series on yiorgosmarinellis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fedjo.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://fedjo.github.io/series/cloud/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedjo.github.io/series/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setup Space</title>
+      <link>https://fedjo.github.io/series/setup-space/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedjo.github.io/series/setup-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://fedjo.github.io/series/hugo/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedjo.github.io/series/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://fedjo.github.io/series/theme/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedjo.github.io/series/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://fedjo.github.io/series/getting-started/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedjo.github.io/series/getting-started/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

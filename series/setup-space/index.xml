@@ -1,3 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Setup Space on yiorgosmarinellis</title><link>https://fedjo.github.io/series/setup-space/</link><description>Recent content in Setup Space on yiorgosmarinellis</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fedjo.github.io/series/setup-space/index.xml" rel="self" type="application/rss+xml"/><item><title>Mikelangelo</title><link>https://fedjo.github.io/projects/mikelangelo/</link><pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate><guid>https://fedjo.github.io/projects/mikelangelo/</guid><description>Who is mikelangelo Mikelangelo is a Virtual Private Server hosted on ~okeanos cloud infrastructure. This service is provided by Greek National Network, Cloud Computing and IT infrastructure and services provider, GRNET.
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup Space on yiorgosmarinellis</title>
+    <link>https://fedjo.github.io/series/setup-space/</link>
+    <description>Recent content in Setup Space on yiorgosmarinellis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fedjo.github.io/series/setup-space/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mikelangelo</title>
+      <link>https://fedjo.github.io/projects/mikelangelo/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedjo.github.io/projects/mikelangelo/</guid>
+      <description>Who is mikelangelo Mikelangelo is a Virtual Private Server hosted on ~okeanos cloud infrastructure. This service is provided by Greek National Network, Cloud Computing and IT infrastructure and services provider, GRNET.
 Mikelangelo operates on GNU/Linux Debian Stretch with kernel version 4.9.0-8-amd64
-The infrastructure consists: 2 x CPU cores 4096 MB RAM memory 20 GB Boot disk (also /dev/vda1) mounted on / 80 GB Data disk (also /dev/vdb) mounted on /data Network IPv4 83.</description></item></channel></rss>
+The infrastructure consists:  2 x CPU cores 4096 MB RAM memory 20 GB Boot disk (also /dev/vda1) mounted on / 80 GB Data disk (also /dev/vdb) mounted on /data  Network IPv4 83.</description>
+    </item>
+    
+  </channel>
+</rss>
